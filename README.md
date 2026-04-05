@@ -170,6 +170,18 @@ print(result.model_contributions)
 
 Define model capabilities and routing strategies in configuration files to customize behavior for your specific use case.
 
+## Implementation Roadmap
+
+The project follows a structured 12-phase implementation plan designed to build Neurus-Semaphore from core infrastructure through advanced features. The roadmap includes:
+
+- **Phases 1-3**: Foundation (Architecture, Model Registry, Orchestration Layer)
+- **Phases 4-6**: Core Features (Agent Framework, Response Synthesis, State Management)
+- **Phases 7-8**: Integration (Configuration, Main Orchestrator)
+- **Phases 9-11**: Maturity (Testing, Documentation, Deployment)
+- **Phase 12**: Advanced Features (Reasoning enhancements, RAG, Observability)
+
+For detailed implementation tasks and current progress, see the [Implementation Roadmap](to-do.md).
+
 ## Development Status
 
 Neurus-Semaphore is an active research framework focused on demonstrating practical methods for orchestrating open-source model ensembles. Contributions and feedback are welcome.
